@@ -1,0 +1,1 @@
+Supabase integration in our website.
